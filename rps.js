@@ -16,8 +16,6 @@ result_div.appendChild(score_p);
 result_div.appendChild(round_p);
 
 
-
-
 buttons.forEach(function(button) {
 
     
@@ -28,7 +26,6 @@ buttons.forEach(function(button) {
 
     
 });
-
 
 
 function getComputerChoice()
